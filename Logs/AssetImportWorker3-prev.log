@@ -1,0 +1,754 @@
+Using pre-set license
+Built from '2022.3/release' branch; Version is '2022.3.20f1 (61c2feb0970d) revision 6406910'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Core' Language: 'ru' Physical Memory: 32581 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.20f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+D:/hub(not porn)/FileProject/KnightSlotGit/KnighteSlot/Hacker slots
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+53650
+Successfully changed project path to: D:/hub(not porn)/FileProject/KnightSlotGit/KnighteSlot/Hacker slots
+D:/hub(not porn)/FileProject/KnightSlotGit/KnighteSlot/Hacker slots
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [2128] Host "[IP] 192.168.3.144 [Port] 0 [Flags] 2 [Guid] 1485931773 [EditorId] 1485931773 [Version] 1048832 [Id] WindowsEditor(7,Kael) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [2128] Host "[IP] 192.168.3.144 [Port] 0 [Flags] 2 [Guid] 1485931773 [EditorId] 1485931773 [Version] 1048832 [Id] WindowsEditor(7,Kael) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 13.66 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.20f1 (61c2feb0970d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/hub(not porn)/FileProject/KnightSlotGit/KnighteSlot/Hacker slots/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Ti (ID=0x2803)
+    Vendor:   NVIDIA
+    VRAM:     7963 MB
+    Driver:   31.0.15.3203
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56476
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009586 seconds.
+- Loaded All Assemblies, in  0.385 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 223 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.519 seconds
+Domain Reload Profiling: 902ms
+	BeginReloadAssembly (94ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (66ms)
+	LoadAllAssembliesAndSetupDomain (182ms)
+		LoadAssemblies (93ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (180ms)
+			TypeCache.Refresh (178ms)
+				TypeCache.ScanAssembly (162ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (519ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (471ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (327ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (98ms)
+			ProcessInitializeOnLoadMethodAttributes (41ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.543 seconds
+Refreshing native plugins compatible for Editor in 4.45 ms, found 7 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.576 seconds
+Domain Reload Profiling: 1118ms
+	BeginReloadAssembly (135ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (18ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (335ms)
+		LoadAssemblies (260ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (149ms)
+			TypeCache.Refresh (123ms)
+				TypeCache.ScanAssembly (108ms)
+			ScanForSourceGeneratedMonoScriptInfo (20ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (576ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (415ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (55ms)
+			ProcessInitializeOnLoadAttributes (290ms)
+			ProcessInitializeOnLoadMethodAttributes (39ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.00 seconds
+Refreshing native plugins compatible for Editor in 3.08 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4266 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 83 unused Assets / (0.6 MB). Loaded Objects now: 4716.
+Memory consumption went from 161.8 MB to 161.2 MB.
+Total: 2.957100 ms (FindLiveObjects: 0.218600 ms CreateObjectMapping: 0.111600 ms MarkObjects: 2.173800 ms  DeleteObjects: 0.452100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.444 seconds
+Refreshing native plugins compatible for Editor in 4.03 ms, found 7 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.008 seconds
+Domain Reload Profiling: 1450ms
+	BeginReloadAssembly (165ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (202ms)
+		LoadAssemblies (279ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (13ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1008ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (422ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (64ms)
+			ProcessInitializeOnLoadAttributes (295ms)
+			ProcessInitializeOnLoadMethodAttributes (32ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 4.72 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4245 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.6 MB). Loaded Objects now: 4721.
+Memory consumption went from 157.6 MB to 157.1 MB.
+Total: 3.087100 ms (FindLiveObjects: 0.260500 ms CreateObjectMapping: 0.125000 ms MarkObjects: 2.393600 ms  DeleteObjects: 0.306700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 350973.811638 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_skull_1-1.png
+  artifactKey: Guid(e791e80450ba64948acea5423714945f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_skull_1-1.png using Guid(e791e80450ba64948acea5423714945f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e596dcda8ac46cf13688d5df6d1b617c') in 0.323938 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.003809 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_sound_off.png
+  artifactKey: Guid(df5761a03f63648dbb87ff27ef1cf249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_sound_off.png using Guid(df5761a03f63648dbb87ff27ef1cf249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c938d250d3cb623a54c592785e79e42') in 0.213148 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.016418 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_snow.png
+  artifactKey: Guid(208d48c30755b4ff488ef02f613858f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_snow.png using Guid(208d48c30755b4ff488ef02f613858f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '735bbcf1d1715c483add3a80c35e0b23') in 0.118795 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.096629 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_128/Pictoicon_zoomout.png
+  artifactKey: Guid(fc63b211cd7284da8844e88205e1c5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_128/Pictoicon_zoomout.png using Guid(fc63b211cd7284da8844e88205e1c5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '084c71c36ba402c3428e0cd309eb84e0') in 0.098788 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_zoomout.png
+  artifactKey: Guid(b23b0afacaea04fd88b769061763a124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_zoomout.png using Guid(b23b0afacaea04fd88b769061763a124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8bc45edef539cfde19e833649fa729') in 0.114616 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.004496 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_tv.png
+  artifactKey: Guid(3df5201d278404c42b776ed5d3b7d949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_tv.png using Guid(3df5201d278404c42b776ed5d3b7d949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7f6d0399bc5aaa471288c9bc73a4f89') in 0.112811 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_128/Pictoicon_user_1.png
+  artifactKey: Guid(27d8ecbb711bb44d4962328bae25af93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_128/Pictoicon_user_1.png using Guid(27d8ecbb711bb44d4962328bae25af93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22e421779af9ed1e94f7dd5f251c249a') in 0.110333 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.003759 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_user_2.png
+  artifactKey: Guid(f44f0f4a7b816440fbd2563f96ab07f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_user_2.png using Guid(f44f0f4a7b816440fbd2563f96ab07f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c82f4c45e558bab124fd16980098f92') in 0.162455 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_unicorn.png
+  artifactKey: Guid(dc5acffe4ad534f3eae1e91f90418eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_unicorn.png using Guid(dc5acffe4ad534f3eae1e91f90418eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'facba3044cbba3a268ccc8a6d65b86af') in 0.134358 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001258 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_user_1.png
+  artifactKey: Guid(90c4d4d2274cb49c5befba2bee92ae6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_user_1.png using Guid(90c4d4d2274cb49c5befba2bee92ae6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd82eaf0dcdc53f76b58820dce334313') in 0.057750 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 122.196234 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider17_Frame.png
+  artifactKey: Guid(840c115cc558245f5899654a55866138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider17_Frame.png using Guid(840c115cc558245f5899654a55866138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e749984f6254e8e2cfeb6599fceacd48') in 0.124094 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001193 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider17_Icon02.png
+  artifactKey: Guid(bc6fc3b64432d45e2ad9a8ee3c5624d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider17_Icon02.png using Guid(bc6fc3b64432d45e2ad9a8ee3c5624d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ef4853e2a66098a9d9f79f6a9e68e82') in 0.139742 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider18_Fill.png
+  artifactKey: Guid(9522be23d22cc48ab8e84f3e8115e7fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider18_Fill.png using Guid(9522be23d22cc48ab8e84f3e8115e7fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfaaa8d2f86db655308501af9e00cfdb') in 0.091465 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.081159 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_UserInfo_Fill02.png
+  artifactKey: Guid(b925be739e0d344f09c4aee06e6d619a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_UserInfo_Fill02.png using Guid(b925be739e0d344f09c4aee06e6d619a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79cf53bdac608d2dfc86a8aec78811c9') in 0.118183 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001557 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_UserInfo_Frame.png
+  artifactKey: Guid(f4ecfe3c5393f4b48af0b824b9dcfa43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_UserInfo_Frame.png using Guid(f4ecfe3c5393f4b48af0b824b9dcfa43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20842e655c92af7c97f9e1c4b7567bc6') in 0.121886 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.071952 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Player2_Frame.png
+  artifactKey: Guid(ce20c9afe770e415aae9b6003a7656ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Player2_Frame.png using Guid(ce20c9afe770e415aae9b6003a7656ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a66cd15412b5fe0fdc9e956c7ecbd92') in 0.215716 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Player2_Icon2.png
+  artifactKey: Guid(9dbe339c9feae428c8deaf57096be6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Player2_Icon2.png using Guid(9dbe339c9feae428c8deaf57096be6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6377f06d3e05b6d72a7147f674a8244c') in 0.073937 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.501459 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Player1_Frame.png
+  artifactKey: Guid(938b80a163183491ca4224605b16d15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Player1_Frame.png using Guid(938b80a163183491ca4224605b16d15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '518b307a266ef761159972ae90225809') in 0.052558 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Player1_Icon1.png
+  artifactKey: Guid(055830eb3f34b4dd6bd02e98ac34469c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Player1_Icon1.png using Guid(055830eb3f34b4dd6bd02e98ac34469c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60ba574bba357c6d35c16cb0f88fa3a9') in 0.107703 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Pass_Frame.png
+  artifactKey: Guid(7e17e0c49b959435b8ae12bdb9ca1ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Pass_Frame.png using Guid(7e17e0c49b959435b8ae12bdb9ca1ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89b2753ddf108fde42939d318ef0c6c7') in 0.146909 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.003871 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Player1_Icon2.png
+  artifactKey: Guid(1b4afc9850620404b84ca04f61efd89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Player1_Icon2.png using Guid(1b4afc9850620404b84ca04f61efd89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '831a63c8647b55d6a607ebfc101ecf44') in 0.058911 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000830 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Player1_Fill.png
+  artifactKey: Guid(ab995621b716e4a6aa04fb7d790cfd7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Player1_Fill.png using Guid(ab995621b716e4a6aa04fb7d790cfd7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dcdaf99d62f3a1f2da52f68fcfc33b0') in 0.040726 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.002302 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Pass_Fill2.png
+  artifactKey: Guid(29737acee3aec4f3bb78c66e7a646589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Pass_Fill2.png using Guid(29737acee3aec4f3bb78c66e7a646589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dc5964d83678d9a4a27bc3fa8f31af1') in 0.094457 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.401635 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider23_Fill_Green.png
+  artifactKey: Guid(39c319578ac97488fa9488d6cd15c45c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider23_Fill_Green.png using Guid(39c319578ac97488fa9488d6cd15c45c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1489da3415606c3e6ea6ac16bc2fa55a') in 0.158565 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider23_Fill_Purple.png
+  artifactKey: Guid(737a84febc56444af9ef9698beadebd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider23_Fill_Purple.png using Guid(737a84febc56444af9ef9698beadebd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea975e95434705f5498c31fa9f97785b') in 0.064653 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.982672 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider23_Frame.png
+  artifactKey: Guid(49b656f08247a45a090728be5f256e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider23_Frame.png using Guid(49b656f08247a45a090728be5f256e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bd4f653ba33013c86bd356b272c5391') in 0.093073 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001654 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Pass_DividLIne.png
+  artifactKey: Guid(ed1010b2901ea48419ab75c1ac65ab78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/SliderGroup_Pass_DividLIne.png using Guid(ed1010b2901ea48419ab75c1ac65ab78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb0310c374da4d5a9ad0c1ad27445c26') in 0.105226 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.401002 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider18_Icon_d.png
+  artifactKey: Guid(da49e656ea9cd4a4a8224e1281d424b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider18_Icon_d.png using Guid(da49e656ea9cd4a4a8224e1281d424b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c73697c93191cfa4fca7144d49f9c76') in 0.052995 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.061203 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider16_Icon02_2.png
+  artifactKey: Guid(de5d68b8505c24b1a9d11bccf8b7bb82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider16_Icon02_2.png using Guid(de5d68b8505c24b1a9d11bccf8b7bb82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa5fd37e6954902f50810b88ec3be006') in 0.114777 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.011609 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider16_Frame.png
+  artifactKey: Guid(c6de2ec018f0543dcaf6628b0a088e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider16_Frame.png using Guid(c6de2ec018f0543dcaf6628b0a088e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec0f7214f9eec861f81e0434b7c1537a') in 0.125502 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.003357 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider14_TickMark.png
+  artifactKey: Guid(c13cbae3e43e2427a855cdfbd9dc8b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider14_TickMark.png using Guid(c13cbae3e43e2427a855cdfbd9dc8b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b28543e5c1c0567925d92a44dec171d7') in 0.155267 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000599 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider14_Fill.png
+  artifactKey: Guid(6b762871f94234fb3b590e2e21a82ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider14_Fill.png using Guid(6b762871f94234fb3b590e2e21a82ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79556d01301d50824bbda80808eddf0d') in 0.162009 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.009284 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider16_Icon01_3.png
+  artifactKey: Guid(c69e3ccef990b4542bbe379b971103aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider16_Icon01_3.png using Guid(c69e3ccef990b4542bbe379b971103aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c6be41db123e8c91110919e91937fd8') in 0.123097 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000986 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider13_Fill_DivedLine.png
+  artifactKey: Guid(8cee786e3265147d6896c213f082e69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Slider/Slider_Demo_Dark/Slider13_Fill_DivedLine.png using Guid(8cee786e3265147d6896c213f082e69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eacd21faf11326650968882542f632b') in 0.076924 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 9.916493 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_write.png
+  artifactKey: Guid(4e1dc7e67c1b841f8af1736dc7ae63b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_write.png using Guid(4e1dc7e67c1b841f8af1736dc7ae63b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc839450d96373faf244c25fa45b60f9') in 0.091390 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.010885 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_zoomin.png
+  artifactKey: Guid(ca56e62fa118f480c9c6906daec88738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_zoomin.png using Guid(ca56e62fa118f480c9c6906daec88738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '052e8c37ee5cae10ddaf66a3ddd49ccb') in 0.109922 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_trophy_2.png
+  artifactKey: Guid(59d532ce6c0744cb7ac3ecdf5265340d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_trophy_2.png using Guid(59d532ce6c0744cb7ac3ecdf5265340d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '450543cf52fe2f7e8da24f5fff844d90') in 0.084336 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.005724 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_write.png
+  artifactKey: Guid(f53b8aace1d7b491ab9c44ba436d3c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_write.png using Guid(f53b8aace1d7b491ab9c44ba436d3c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '954c39af99a9a37c83d5e973ba0d67e7') in 0.098257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_128/Pictoicon_trophy_3.png
+  artifactKey: Guid(26a3dd623a72b42a38e0bc59a0616bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_128/Pictoicon_trophy_3.png using Guid(26a3dd623a72b42a38e0bc59a0616bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7d1816f0d68d6686ebcc641ffa3974b') in 0.038964 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.103549 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_tip_2.png
+  artifactKey: Guid(fa4a91ca4ea5f44a9acb6fb7b77d91c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_tip_2.png using Guid(fa4a91ca4ea5f44a9acb6fb7b77d91c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '756e736c5b02495c2252b2e1b5179e70') in 0.158304 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_128/Pictoicon_tree.png
+  artifactKey: Guid(b73bcf166e67149fc95e8e000d8adc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_128/Pictoicon_tree.png using Guid(b73bcf166e67149fc95e8e000d8adc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93c5c3f3d54afbf8ac99818fdac8d1b3') in 0.432343 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_thunder.png
+  artifactKey: Guid(d46f7dee221944780974a5e2c65144d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_thunder.png using Guid(d46f7dee221944780974a5e2c65144d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fb357087f6a1d73e966738d451249e9') in 0.120053 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.002988 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_thumbnail_1.png
+  artifactKey: Guid(0fa93314f7be041e384e8ab318fea8eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_thumbnail_1.png using Guid(0fa93314f7be041e384e8ab318fea8eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd87ab9075de943e322ffa16e291658d6') in 0.065603 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_tool_1.png
+  artifactKey: Guid(565f3c24eb9b64ba7a5f379b54d9c0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_tool_1.png using Guid(565f3c24eb9b64ba7a5f379b54d9c0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb2abbff31f6d72bc25b5bf6dd0c0aed') in 0.053974 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.719814 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_symbol_warning.png
+  artifactKey: Guid(f39bffc9546494161b0a74eb2d8f5961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_symbol_warning.png using Guid(f39bffc9546494161b0a74eb2d8f5961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb933d7d58920be26c941e19285c9dae') in 0.144437 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001738 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_symbol_x.png
+  artifactKey: Guid(6a0c84a7ae51b43ae9e2c0aefdfee31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_symbol_x.png using Guid(6a0c84a7ae51b43ae9e2c0aefdfee31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e881241c5260a7e6bb40173fb40a4fad') in 0.101950 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.009293 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_speed.png
+  artifactKey: Guid(7bdc0e4dc5cac47cd97b9602ede22a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_speed.png using Guid(7bdc0e4dc5cac47cd97b9602ede22a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca5bb1e3c22c7c2c4e69d3527eb0b383') in 0.128423 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_star_line.png
+  artifactKey: Guid(6cf137f4215574356bfeb5d00955f825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_star_line.png using Guid(6cf137f4215574356bfeb5d00955f825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e50decf9d6ace0e14817cd6afde61f2') in 0.145733 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001307 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_tag.png
+  artifactKey: Guid(bc1176dcebafa4efdac193781811d8bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_512/Pictoicon_tag.png using Guid(bc1176dcebafa4efdac193781811d8bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b7d27c70c993b8efb96cedcd4d41793') in 0.062500 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.341747 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_shopping_2.png
+  artifactKey: Guid(4caecd623673647b390596e80e2bf201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_shopping_2.png using Guid(4caecd623673647b390596e80e2bf201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a86a600f3a62abc39cb78458f7340a3') in 0.032408 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.027105 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_shopping_4.png
+  artifactKey: Guid(efb9458a989be40dabe535082a7055a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_shopping_4.png using Guid(efb9458a989be40dabe535082a7055a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '464b52214eb25c5a46780cf5cdb21ac9') in 0.039529 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.046431 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_shield_viking.png
+  artifactKey: Guid(cae1e3410f2bb415cbcc512d125cc984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_shield_viking.png using Guid(cae1e3410f2bb415cbcc512d125cc984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '646047a04937cd1fa23262286c0cf028') in 0.054106 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.026231 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_shoot_focus_1.png
+  artifactKey: Guid(426c80a84dd5a4da2a5aaadb6a45d292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_shoot_focus_1.png using Guid(426c80a84dd5a4da2a5aaadb6a45d292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e00447a251dc071dde5d49f6c4669fc') in 0.056511 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.158576 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_sfx_on.png
+  artifactKey: Guid(3ef8427e453024116bb42b07a39932bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_sfx_on.png using Guid(3ef8427e453024116bb42b07a39932bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdb6b07f482c44f95b02d4ed3ce7e666') in 0.045367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.456005 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_setting_2.png
+  artifactKey: Guid(53d61d76d78c44c5589aea83193875d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_setting_2.png using Guid(53d61d76d78c44c5589aea83193875d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a92bb783e583163883eebbf213cc612c') in 0.041184 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.198598 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_scroll.png
+  artifactKey: Guid(72a80fecf67a440a4845d4e622ca968f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_scroll.png using Guid(72a80fecf67a440a4845d4e622ca968f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a2ab9fb0c4e2457747340f919fe38cb') in 0.069741 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.015333 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_rotate.png
+  artifactKey: Guid(70b54aca2e40045d0800c6de7ee032a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_rotate.png using Guid(70b54aca2e40045d0800c6de7ee032a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3e73a4e93e659aa1fb001881f3b96f5') in 0.060949 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.005939 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_save.png
+  artifactKey: Guid(f96b8fa2a059546d49d5762daa03c573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_save.png using Guid(f96b8fa2a059546d49d5762daa03c573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6baac568fa79b50492ed5038a74d0870') in 0.050864 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.173922 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_road_sign.png
+  artifactKey: Guid(c8792461c22b54151b63cd1bd53110d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_road_sign.png using Guid(c8792461c22b54151b63cd1bd53110d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b3ba9d97555e55cc921dd036d5d2d57') in 0.089136 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.112601 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_revive_2.png
+  artifactKey: Guid(6e7f89bec2f31454eb1beb733c89510a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_256/Pictoicon_revive_2.png using Guid(6e7f89bec2f31454eb1beb733c89510a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9395897454e8603e7d754faefdb83f3') in 0.050468 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.306613 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_128/Pictoicon_news_1.png
+  artifactKey: Guid(013e1b632c6de49ebb2233bed612270f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_128/Pictoicon_news_1.png using Guid(013e1b632c6de49ebb2233bed612270f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '466d265f96d4bfe96d856f173c232e9b') in 0.045298 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.072699 seconds.
+  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_128/Pictoicon_music_off.png
+  artifactKey: Guid(2a0238af227554c2eb9f6c4d5646a153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Icon_PictoIcons_(x2)/PictoIcons_128/Pictoicon_music_off.png using Guid(2a0238af227554c2eb9f6c4d5646a153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c61b4590610cdb4782bb69b98a9a03c') in 0.099857 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
