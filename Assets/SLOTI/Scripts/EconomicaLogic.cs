@@ -22,7 +22,7 @@ public class EconomicaLogic : MonoBehaviour
     {
         currency += incrementValue;
         PlayerPrefs.SetInt("gold", Currency);
-        textManager.changeText(incrementValue);
+        textManager.changeText(Currency);
     }    
 
     public void UpdateScore(int score) 
