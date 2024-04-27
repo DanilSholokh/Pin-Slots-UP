@@ -9735,10 +9735,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b44d1a222a9979143b4960d82554261e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sprite: {fileID: 21300000, guid: 4b377cd9fbfa143969a3139e31b1fb52, type: 3}
-  background: {fileID: 21300000, guid: f16eed03933cf47868052e909acc0f43, type: 3}
   buttoneBuy: {fileID: 1537782054}
-  audioSource: {fileID: 8027311381835695448}
+  audioSource: {fileID: 7288388972277670338}
   sound: {fileID: 8300000, guid: 65d2d8763ea7d5b43b4460e6d8db8f18, type: 3}
   economica: {fileID: 311434465129032449}
   priceSound: 1500
@@ -10493,10 +10491,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b44d1a222a9979143b4960d82554261e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sprite: {fileID: 21300000, guid: 4b377cd9fbfa143969a3139e31b1fb52, type: 3}
-  background: {fileID: 21300000, guid: f16eed03933cf47868052e909acc0f43, type: 3}
   buttoneBuy: {fileID: 23191384}
-  audioSource: {fileID: 8027311381835695448}
+  audioSource: {fileID: 7288388972277670338}
   sound: {fileID: 8300000, guid: b7da48c15e710a741842583fac3307c7, type: 3}
   economica: {fileID: 311434465129032449}
   priceSound: 1000
@@ -47975,8 +47971,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 8027311381835695448}
-        m_TargetAssemblyTypeName: MusicLogic, Assembly-CSharp
+      - m_Target: {fileID: 7288388972277670338}
+        m_TargetAssemblyTypeName: SoundLogic, Assembly-CSharp
         m_MethodName: ToggleMute
         m_Mode: 1
         m_Arguments:
@@ -77157,7 +77153,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2880660656359639524}
   - component: {fileID: 5663953883637738469}
-  - component: {fileID: 8027311381835695448}
+  - component: {fileID: 7288388972277670338}
   m_Layer: 0
   m_Name: MusicLogic
   m_TagString: Untagged
@@ -77165,6 +77161,26 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &7288388972277670338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7288388972277670337}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3558984edfb2d05438305c6c4905deb0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainClip: {fileID: 8300000, guid: 65d2d8763ea7d5b43b4460e6d8db8f18, type: 3}
+  soundPanels:
+  - {fileID: 8506848184155023613}
+  - {fileID: 1008449932}
+  - {fileID: 782228648}
+  muteImg: {fileID: 1715109885384100243}
+  offMute: {fileID: 21300000, guid: 9394b235410464ec0a395523ac70906b, type: 3}
+  onMute: {fileID: 21300000, guid: 706e987c3132d4c8aa37fc76bb974e60, type: 3}
 --- !u!114 &7306558391723174313
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -77705,13 +77721,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca80b79dacd63f943bfedc23d4f97c01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spinButton: {fileID: 5105424228496793464}
+  winPrize: {fileID: 9050207922843056540}
+  goldCombinacia: {fileID: 4179775340968475973}
+  _sliderPrizeContent: {fileID: 888093987719557295}
+  _spinButton: {fileID: 5105424228496793464}
   slotsManager: {fileID: 3099692751813014907}
-  spinDuration: 5.5
-  delayBetweenRows: 0.25
-  _sliderDopContent: {fileID: 888093987719557295}
-  goldGanarate: {fileID: 4179775340968475973}
-  dopPrize: {fileID: 9050207922843056540}
+  _spinDuration: 6
+  delayRows: 0.25
+  dopSlot: {fileID: 3099692751813014907}
 --- !u!114 &7854617153851853609
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -78968,26 +78985,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2633342839002877137}
   m_CullTransparentMesh: 1
---- !u!114 &8027311381835695448
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7288388972277670337}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bcd09fea0ed81c944b636104ec7bbbc1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  mainClip: {fileID: 8300000, guid: 6b99e4ca54feb1c499bd45b2c95dfde1, type: 3}
-  soundPanels:
-  - {fileID: 8506848184155023613}
-  - {fileID: 1008449932}
-  - {fileID: 782228648}
-  muteImage: {fileID: 1715109885384100243}
-  offMute: {fileID: 21300000, guid: ac3598f525aa740ad8c75bb20530a163, type: 3}
-  onMute: {fileID: 21300000, guid: 412af80c943b648d3997c61801cbe9e6, type: 3}
 --- !u!114 &8046556219125496002
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -81791,10 +81788,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b44d1a222a9979143b4960d82554261e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sprite: {fileID: 21300000, guid: 4b377cd9fbfa143969a3139e31b1fb52, type: 3}
-  background: {fileID: 21300000, guid: f16eed03933cf47868052e909acc0f43, type: 3}
   buttoneBuy: {fileID: 6267208204642551917}
-  audioSource: {fileID: 8027311381835695448}
+  audioSource: {fileID: 7288388972277670338}
   sound: {fileID: 8300000, guid: 10ea0c6ecdfbe594d85161c221bce875, type: 3}
   economica: {fileID: 311434465129032449}
   priceSound: 500
@@ -82915,7 +82910,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 8027311381835695448}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: MusicLogic, Assembly-CSharp
         m_MethodName: setMainClip
         m_Mode: 1

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6D6461A3-443A-9AE2-C3B4-306EE26703FD}</ProjectGuid>
+    <ProjectGuid>{65FFDBCE-B1DC-C264-D093-926724A572EB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,10 +62,10 @@
   <ItemGroup>
     <Compile Include="Assets\KnightSloti\Scripts\BowWallLogic.cs" />
     <Compile Include="Assets\KnightSloti\Scripts\CandyWallData.cs" />
+    <Compile Include="Assets\KnightSloti\Scripts\GoldCombinaciaLogic.cs" />
     <Compile Include="Assets\KnightSloti\Scripts\BowManager.cs" />
-    <Compile Include="Assets\KnightSloti\Scripts\GoldGanarate.cs" />
+    <Compile Include="Assets\KnightSloti\Scripts\DailyController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
-    <Compile Include="Assets\KnightSloti\Scripts\SpinLogic.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\SLOTI\Layer Lab\GUI Pro-FantasyRPG\Scripts\PanelControlFantasyRPG.cs" />
     <Compile Include="Assets\SLOTI\Scripts\SlotsManager.cs" />
@@ -81,6 +81,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
+    <Compile Include="Assets\SoundLogic.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
@@ -92,14 +93,12 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
-    <Compile Include="Assets\SoundPanelController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
     <Compile Include="Assets\GUI PRO Kit - Simple Casual\Scripts\PanelControlSimpleCasual.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
-    <Compile Include="Assets\MusicLogic.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
@@ -112,8 +111,9 @@
     <Compile Include="Assets\SLOTI\Scripts\FruitData.cs" />
     <Compile Include="Assets\SLOTI\Scripts\FruitsSlot.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
-    <Compile Include="Assets\KnightSloti\Scripts\DailyLogic.cs" />
     <Compile Include="Assets\SLOTI\Scripts\TextingManager.cs" />
+    <Compile Include="Assets\SoundController.cs" />
+    <Compile Include="Assets\KnightSloti\Scripts\SpinsAnimation.cs" />
     <Compile Include="Assets\GUI PRO Kit - Simple Casual\Scripts\PanelSimpleCasual.cs" />
     <Compile Include="Assets\SLOTI\Layer Lab\GUI Pro-FantasyRPG\Extensions\UIParticle\UIParticleSystem.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />

@@ -10,25 +10,25 @@ public class EProgressBar : MonoBehaviour
 
     private void Start()
     {
-        StartCoroutine(ExecuteAsynchronously());
+        StartCoroutine(ExecuteEnumenator());
     }
 
-    private IEnumerator ExecuteAsynchronously()
+    private IEnumerator ExecuteEnumenator()
     {
         float initialTime = Time.time;
 
         while (_elapsedTime < TotalTime)
         {
             float progress = _elapsedTime / TotalTime;
-            UpdateSliderProgress(progress);
+            UpdateSlider(progress);
             yield return null;
             _elapsedTime = Time.time - initialTime;
         }
 
-        Destroy(this.gameObject);
+        Destroy(gameObject);
     }
 
-    private void UpdateSliderProgress(float progress)
+    private void UpdateSlider(float progress)
     {
         _uniqueSlider.value = progress;
     }

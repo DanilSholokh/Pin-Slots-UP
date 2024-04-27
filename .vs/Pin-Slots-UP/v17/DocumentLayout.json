@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65FFDBCE-B1DC-C264-D093-926724A572EB}|Assembly-CSharp.csproj|c:\\users\\deree\\onedrive\\\u0432\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\pin-slots-up\\assets\\soundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FFDBCE-B1DC-C264-D093-926724A572EB}|Assembly-CSharp.csproj|solutionrelative:assets\\soundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FFDBCE-B1DC-C264-D093-926724A572EB}|Assembly-CSharp.csproj|C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\assets\\soundlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FFDBCE-B1DC-C264-D093-926724A572EB}|Assembly-CSharp.csproj|solutionrelative:assets\\soundlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FFDBCE-B1DC-C264-D093-926724A572EB}|Assembly-CSharp.csproj|C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\assets\\sloti\\scripts\\progressloadbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FFDBCE-B1DC-C264-D093-926724A572EB}|Assembly-CSharp.csproj|solutionrelative:assets\\sloti\\scripts\\progressloadbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FFDBCE-B1DC-C264-D093-926724A572EB}|Assembly-CSharp.csproj|C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\assets\\knightsloti\\scripts\\dailycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FFDBCE-B1DC-C264-D093-926724A572EB}|Assembly-CSharp.csproj|solutionrelative:assets\\knightsloti\\scripts\\dailycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FFDBCE-B1DC-C264-D093-926724A572EB}|Assembly-CSharp.csproj|C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\assets\\knightsloti\\scripts\\goldcombinacialogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FFDBCE-B1DC-C264-D093-926724A572EB}|Assembly-CSharp.csproj|solutionrelative:assets\\knightsloti\\scripts\\goldcombinacialogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FFDBCE-B1DC-C264-D093-926724A572EB}|Assembly-CSharp.csproj|C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\assets\\knightsloti\\scripts\\spinsanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FFDBCE-B1DC-C264-D093-926724A572EB}|Assembly-CSharp.csproj|solutionrelative:assets\\knightsloti\\scripts\\spinsanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoundController.cs",
+              "DocumentMoniker": "C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\Assets\\SoundController.cs",
+              "RelativeDocumentMoniker": "Assets\\SoundController.cs",
+              "ToolTip": "C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\Assets\\SoundController.cs",
+              "RelativeToolTip": "Assets\\SoundController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:45:13.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoundLogic.cs",
+              "DocumentMoniker": "C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\Assets\\SoundLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\SoundLogic.cs",
+              "ToolTip": "C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\Assets\\SoundLogic.cs",
+              "RelativeToolTip": "Assets\\SoundLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:16:26.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgressLoadBar.cs",
+              "DocumentMoniker": "C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\Assets\\SLOTI\\Scripts\\ProgressLoadBar.cs",
+              "RelativeDocumentMoniker": "Assets\\SLOTI\\Scripts\\ProgressLoadBar.cs",
+              "ToolTip": "C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\Assets\\SLOTI\\Scripts\\ProgressLoadBar.cs",
+              "RelativeToolTip": "Assets\\SLOTI\\Scripts\\ProgressLoadBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:15:00.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DailyController.cs",
+              "DocumentMoniker": "C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\Assets\\KnightSloti\\Scripts\\DailyController.cs",
+              "RelativeDocumentMoniker": "Assets\\KnightSloti\\Scripts\\DailyController.cs",
+              "ToolTip": "C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\Assets\\KnightSloti\\Scripts\\DailyController.cs",
+              "RelativeToolTip": "Assets\\KnightSloti\\Scripts\\DailyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:00:18.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoldCombinaciaLogic.cs",
+              "DocumentMoniker": "C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\Assets\\KnightSloti\\Scripts\\GoldCombinaciaLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\KnightSloti\\Scripts\\GoldCombinaciaLogic.cs",
+              "ToolTip": "C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\Assets\\KnightSloti\\Scripts\\GoldCombinaciaLogic.cs",
+              "RelativeToolTip": "Assets\\KnightSloti\\Scripts\\GoldCombinaciaLogic.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAcwIYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:59:28.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpinsAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\Assets\\KnightSloti\\Scripts\\SpinsAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\KnightSloti\\Scripts\\SpinsAnimation.cs",
+              "ToolTip": "C:\\Users\\deree\\OneDrive\\\u0412\u043A\u043B\u0430\u0434\u0435\u043D\u043D\u044F\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\Pin-Slots-UP\\Assets\\KnightSloti\\Scripts\\SpinsAnimation.cs",
+              "RelativeToolTip": "Assets\\KnightSloti\\Scripts\\SpinsAnimation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:04:35.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
